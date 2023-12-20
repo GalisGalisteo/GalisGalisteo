@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Galis!
 
-🌎 A passionate FullStack developer from Barcelona, Spain.
+🌎 A passionate Full-Stack developer from Barcelona, Spain.
 
 🔭 I’m currently looking for a job.
 
