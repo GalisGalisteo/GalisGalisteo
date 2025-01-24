@@ -2,9 +2,7 @@
 
 🌎 A passionate Full-Stack developer from Barcelona, Spain.
 
-🔭 I’m currently looking for a job.
-
-📫 You can reach me at jordigalisteomendoza@gmail.com.
+📫 You can reach me at galisgalisteo@gmail.com.
 
 📍 Connect with me:
 
